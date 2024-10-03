@@ -38,7 +38,7 @@ The calculator window will open, and you can start performing calculations right
 
 ## Screenshots
 
-![Calculator Screenshot](path_to_screenshot.png)
+![Calculator Screenshot](images)
 
 ## Future Improvements
 
